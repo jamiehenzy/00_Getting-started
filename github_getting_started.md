@@ -236,7 +236,7 @@ After the push completes, go to your repository on GitHub and refresh the page. 
 
 ## Part 7: The Ongoing Workflow
 
-From this point forward, whenever you complete work you want to add to your portfolio, the process is always the same three steps. For example, after completing the QC unit:
+From this point forward, whenever you complete work you want to add to your portfolio, the process is always the same three steps. For example, after completing your work for the UNIX module:
 
 ```bash
 # Navigate to your portfolio directory
