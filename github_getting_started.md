@@ -258,6 +258,7 @@ git push
 
 > **A note on commit messages:** Write your commit messages as short, specific descriptions of what you did — not just "update" or "changes." Good commit messages make your work history readable and look professional. Think of them as a lab notebook entry.
 
+> After pushing, go to your Github site, refresh the page, and check that you can see your assignment files!
 ---
 
 ## Important Rules: What NOT to Push to GitHub
