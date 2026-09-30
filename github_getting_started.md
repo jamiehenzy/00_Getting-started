@@ -240,16 +240,16 @@ From this point forward, whenever you complete work you want to add to your port
 
 ```bash
 # Navigate to your portfolio directory
-cd ~/bioinformatics-portfolio
+cd /courses/BIOL2406.202.710/students/<student_name>/bioinformatics-portfolio
 
-# Copy or move your script into the right folder
-cp ~/qc_unit/run_fastqc.sh 02_qc_trimming/
+# Copy or move your file into the right folder; for example, if you saved a terminal session in your home folder and you've created a UNIX folder in your bioinformatics-portfolio:
+cp ~/<student_name>/unix_1.txt UNIX/
 
 # Stage all new or changed files
 git add .
 
 # Commit with a descriptive message
-git commit -m "Add FastQC script and QC summary for unit 2"
+git commit -m "Add terminal session for unix_1 tutorial"
 
 # Push to GitHub
 git push
