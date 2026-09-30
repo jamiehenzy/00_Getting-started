@@ -242,7 +242,8 @@ From this point forward, whenever you complete work you want to add to your port
 # Navigate to your portfolio directory
 cd /courses/BIOL2406.202.710/students/<student_name>/bioinformatics-portfolio
 
-# Copy or move your file into the right folder; for example, if you saved a terminal session in your home folder and you've created a UNIX folder in your bioinformatics-portfolio:
+# Copy or move your file into the right folder; for example, if you saved a terminal session in your home folder and
+# you've created a UNIX folder in your bioinformatics-portfolio:
 cp ~/<student_name>/unix_1.txt UNIX/
 
 # Stage all new or changed files
